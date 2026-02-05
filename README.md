@@ -57,6 +57,10 @@ For quick local tests, edit the top-of-file constants in `cumulative_tictactoe_h
 - Hyper-run manifests: `hyper_grid_results.csv`, `hyper_grid_results.json`.
 - Heuristic-comparison: `heuristic_compare_results.json`.
 
+## License & citation
+
+The code is released under the MIT License. If you use this code or data in this published work, please cite the associated manuscript.
+
 ## Contact
 
 Author: Kai Li — [kai.li@stonybrook.edu](mailto:kai.li@stonybrook.edu)
