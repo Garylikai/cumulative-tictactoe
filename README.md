@@ -10,9 +10,7 @@ This repository contains:
 
 ## Requirements
 
-Minimal third-party dependencies:
-
-numpy>=1.21, scipy>=1.7
+Minimal third-party dependencies: numpy>=1.21, scipy>=1.7
 
 Recommended Python: **3.8+**
 
