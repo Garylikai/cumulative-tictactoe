@@ -1,0 +1,92 @@
+[
+  {
+    "seed": 126,
+    "epsilon": 0.05,
+    "step_size": 0.5,
+    "heuristic": "random",
+    "episodes_requested": 1000000,
+    "episodes_to_converge": 224547,
+    "elapsed_seconds": 417.99
+  },
+  {
+    "seed": 126,
+    "epsilon": 0.05,
+    "step_size": 0.5,
+    "heuristic": "tcd",
+    "episodes_requested": 1000000,
+    "episodes_to_converge": 195185,
+    "elapsed_seconds": 356.14
+  },
+  {
+    "seed": 127,
+    "epsilon": 0.05,
+    "step_size": 0.5,
+    "heuristic": "random",
+    "episodes_requested": 1000000,
+    "episodes_to_converge": 200676,
+    "elapsed_seconds": 372.46
+  },
+  {
+    "seed": 127,
+    "epsilon": 0.05,
+    "step_size": 0.5,
+    "heuristic": "tcd",
+    "episodes_requested": 1000000,
+    "episodes_to_converge": 149118,
+    "elapsed_seconds": 266.6
+  },
+  {
+    "seed": 128,
+    "epsilon": 0.05,
+    "step_size": 0.5,
+    "heuristic": "random",
+    "episodes_requested": 1000000,
+    "episodes_to_converge": 162123,
+    "elapsed_seconds": 288.43
+  },
+  {
+    "seed": 128,
+    "epsilon": 0.05,
+    "step_size": 0.5,
+    "heuristic": "tcd",
+    "episodes_requested": 1000000,
+    "episodes_to_converge": 112231,
+    "elapsed_seconds": 188.36
+  },
+  {
+    "seed": 129,
+    "epsilon": 0.05,
+    "step_size": 0.5,
+    "heuristic": "random",
+    "episodes_requested": 1000000,
+    "episodes_to_converge": 189229,
+    "elapsed_seconds": 351.74
+  },
+  {
+    "seed": 129,
+    "epsilon": 0.05,
+    "step_size": 0.5,
+    "heuristic": "tcd",
+    "episodes_requested": 1000000,
+    "episodes_to_converge": 123535,
+    "elapsed_seconds": 216.7
+  },
+  {
+    "seed": 130,
+    "epsilon": 0.05,
+    "step_size": 0.5,
+    "heuristic": "random",
+    "episodes_requested": 1000000,
+    "episodes_to_converge": 173859,
+    "elapsed_seconds": 360.95
+  },
+  {
+    "seed": 130,
+    "epsilon": 0.05,
+    "step_size": 0.5,
+    "heuristic": "tcd",
+    "episodes_requested": 1000000,
+    "episodes_to_converge": 151241,
+    "elapsed_seconds": 289.09
+  }
+]

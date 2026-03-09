@@ -1,0 +1,294 @@
+Starting grid search: 80 runs (episodes per run = 1000000)
+
+Run 1/80: seed=121, epsilon=0.05, alpha=0.05, heuristic=zero
+Convergence achieved at episode 310033 with random seed 121 and heuristic zero
+
+Run 2/80: seed=121, epsilon=0.05, alpha=0.1, heuristic=zero
+Convergence achieved at episode 387648 with random seed 121 and heuristic zero
+
+Run 3/80: seed=121, epsilon=0.05, alpha=0.2, heuristic=zero
+Convergence achieved at episode 205384 with random seed 121 and heuristic zero
+
+Run 4/80: seed=121, epsilon=0.05, alpha=0.5, heuristic=zero
+Convergence achieved at episode 178748 with random seed 121 and heuristic zero
+
+Run 5/80: seed=121, epsilon=0.1, alpha=0.05, heuristic=zero
+Convergence achieved at episode 219702 with random seed 121 and heuristic zero
+
+Run 6/80: seed=121, epsilon=0.1, alpha=0.1, heuristic=zero
+Convergence achieved at episode 481303 with random seed 121 and heuristic zero
+
+Run 7/80: seed=121, epsilon=0.1, alpha=0.2, heuristic=zero
+Convergence achieved at episode 245052 with random seed 121 and heuristic zero
+
+Run 8/80: seed=121, epsilon=0.1, alpha=0.5, heuristic=zero
+Convergence achieved at episode 196265 with random seed 121 and heuristic zero
+
+Run 9/80: seed=121, epsilon=0.2, alpha=0.05, heuristic=zero
+Convergence achieved at episode 782386 with random seed 121 and heuristic zero
+
+Run 10/80: seed=121, epsilon=0.2, alpha=0.1, heuristic=zero
+Convergence achieved at episode 351709 with random seed 121 and heuristic zero
+
+Run 11/80: seed=121, epsilon=0.2, alpha=0.2, heuristic=zero
+Convergence achieved at episode 180459 with random seed 121 and heuristic zero
+
+Run 12/80: seed=121, epsilon=0.2, alpha=0.5, heuristic=zero
+Convergence achieved at episode 170843 with random seed 121 and heuristic zero
+
+Run 13/80: seed=121, epsilon=0.3, alpha=0.05, heuristic=zero
+Convergence achieved at episode 731808 with random seed 121 and heuristic zero
+
+Run 14/80: seed=121, epsilon=0.3, alpha=0.1, heuristic=zero
+Convergence achieved at episode 337431 with random seed 121 and heuristic zero
+
+Run 15/80: seed=121, epsilon=0.3, alpha=0.2, heuristic=zero
+Convergence achieved at episode 237782 with random seed 121 and heuristic zero
+
+Run 16/80: seed=121, epsilon=0.3, alpha=0.5, heuristic=zero
+Convergence achieved at episode 261807 with random seed 121 and heuristic zero
+
+Run 17/80: seed=122, epsilon=0.05, alpha=0.05, heuristic=zero
+Convergence achieved at episode 257279 with random seed 122 and heuristic zero
+
+Run 18/80: seed=122, epsilon=0.05, alpha=0.1, heuristic=zero
+Convergence achieved at episode 154423 with random seed 122 and heuristic zero
+
+Run 19/80: seed=122, epsilon=0.05, alpha=0.2, heuristic=zero
+Convergence achieved at episode 128614 with random seed 122 and heuristic zero
+
+Run 20/80: seed=122, epsilon=0.05, alpha=0.5, heuristic=zero
+Convergence achieved at episode 160856 with random seed 122 and heuristic zero
+
+Run 21/80: seed=122, epsilon=0.1, alpha=0.05, heuristic=zero
+Convergence achieved at episode 310615 with random seed 122 and heuristic zero
+
+Run 22/80: seed=122, epsilon=0.1, alpha=0.1, heuristic=zero
+Convergence achieved at episode 234146 with random seed 122 and heuristic zero
+
+Run 23/80: seed=122, epsilon=0.1, alpha=0.2, heuristic=zero
+Convergence achieved at episode 220414 with random seed 122 and heuristic zero
+
+Run 24/80: seed=122, epsilon=0.1, alpha=0.5, heuristic=zero
+Convergence achieved at episode 205237 with random seed 122 and heuristic zero
+
+Run 25/80: seed=122, epsilon=0.2, alpha=0.05, heuristic=zero
+Convergence achieved at episode 579277 with random seed 122 and heuristic zero
+
+Run 26/80: seed=122, epsilon=0.2, alpha=0.1, heuristic=zero
+Convergence achieved at episode 377120 with random seed 122 and heuristic zero
+
+Run 27/80: seed=122, epsilon=0.2, alpha=0.2, heuristic=zero
+Convergence achieved at episode 204137 with random seed 122 and heuristic zero
+
+Run 28/80: seed=122, epsilon=0.2, alpha=0.5, heuristic=zero
+Convergence achieved at episode 212443 with random seed 122 and heuristic zero
+
+Run 29/80: seed=122, epsilon=0.3, alpha=0.05, heuristic=zero
+Convergence achieved at episode 562911 with random seed 122 and heuristic zero
+
+Run 30/80: seed=122, epsilon=0.3, alpha=0.1, heuristic=zero
+Convergence achieved at episode 319809 with random seed 122 and heuristic zero
+
+Run 31/80: seed=122, epsilon=0.3, alpha=0.2, heuristic=zero
+Convergence achieved at episode 186920 with random seed 122 and heuristic zero
+
+Run 32/80: seed=122, epsilon=0.3, alpha=0.5, heuristic=zero
+Convergence achieved at episode 216197 with random seed 122 and heuristic zero
+
+Run 33/80: seed=123, epsilon=0.05, alpha=0.05, heuristic=zero
+Convergence achieved at episode 145606 with random seed 123 and heuristic zero
+
+Run 34/80: seed=123, epsilon=0.05, alpha=0.1, heuristic=zero
+Convergence achieved at episode 300944 with random seed 123 and heuristic zero
+
+Run 35/80: seed=123, epsilon=0.05, alpha=0.2, heuristic=zero
+Convergence achieved at episode 214257 with random seed 123 and heuristic zero
+
+Run 36/80: seed=123, epsilon=0.05, alpha=0.5, heuristic=zero
+Convergence achieved at episode 210678 with random seed 123 and heuristic zero
+
+Run 37/80: seed=123, epsilon=0.1, alpha=0.05, heuristic=zero
+Convergence achieved at episode 371382 with random seed 123 and heuristic zero
+
+Run 38/80: seed=123, epsilon=0.1, alpha=0.1, heuristic=zero
+Convergence achieved at episode 388509 with random seed 123 and heuristic zero
+
+Run 39/80: seed=123, epsilon=0.1, alpha=0.2, heuristic=zero
+Convergence achieved at episode 262556 with random seed 123 and heuristic zero
+
+Run 40/80: seed=123, epsilon=0.1, alpha=0.5, heuristic=zero
+Convergence achieved at episode 177817 with random seed 123 and heuristic zero
+
+Run 41/80: seed=123, epsilon=0.2, alpha=0.05, heuristic=zero
+Convergence achieved at episode 476076 with random seed 123 and heuristic zero
+
+Run 42/80: seed=123, epsilon=0.2, alpha=0.1, heuristic=zero
+Convergence achieved at episode 334538 with random seed 123 and heuristic zero
+
+Run 43/80: seed=123, epsilon=0.2, alpha=0.2, heuristic=zero
+Convergence achieved at episode 206206 with random seed 123 and heuristic zero
+
+Run 44/80: seed=123, epsilon=0.2, alpha=0.5, heuristic=zero
+Convergence achieved at episode 171355 with random seed 123 and heuristic zero
+
+Run 45/80: seed=123, epsilon=0.3, alpha=0.05, heuristic=zero
+Convergence achieved at episode 711081 with random seed 123 and heuristic zero
+
+Run 46/80: seed=123, epsilon=0.3, alpha=0.1, heuristic=zero
+Convergence achieved at episode 295909 with random seed 123 and heuristic zero
+
+Run 47/80: seed=123, epsilon=0.3, alpha=0.2, heuristic=zero
+Convergence achieved at episode 190416 with random seed 123 and heuristic zero
+
+Run 48/80: seed=123, epsilon=0.3, alpha=0.5, heuristic=zero
+Convergence achieved at episode 211378 with random seed 123 and heuristic zero
+
+Run 49/80: seed=124, epsilon=0.05, alpha=0.05, heuristic=zero
+Convergence achieved at episode 258198 with random seed 124 and heuristic zero
+
+Run 50/80: seed=124, epsilon=0.05, alpha=0.1, heuristic=zero
+Convergence achieved at episode 167846 with random seed 124 and heuristic zero
+
+Run 51/80: seed=124, epsilon=0.05, alpha=0.2, heuristic=zero
+Convergence achieved at episode 193277 with random seed 124 and heuristic zero
+
+Run 52/80: seed=124, epsilon=0.05, alpha=0.5, heuristic=zero
+Convergence achieved at episode 169766 with random seed 124 and heuristic zero
+
+Run 53/80: seed=124, epsilon=0.1, alpha=0.05, heuristic=zero
+Convergence achieved at episode 212151 with random seed 124 and heuristic zero
+
+Run 54/80: seed=124, epsilon=0.1, alpha=0.1, heuristic=zero
+Convergence achieved at episode 213843 with random seed 124 and heuristic zero
+
+Run 55/80: seed=124, epsilon=0.1, alpha=0.2, heuristic=zero
+Convergence achieved at episode 167146 with random seed 124 and heuristic zero
+
+Run 56/80: seed=124, epsilon=0.1, alpha=0.5, heuristic=zero
+Convergence achieved at episode 206053 with random seed 124 and heuristic zero
+
+Run 57/80: seed=124, epsilon=0.2, alpha=0.05, heuristic=zero
+Convergence achieved at episode 585719 with random seed 124 and heuristic zero
+
+Run 58/80: seed=124, epsilon=0.2, alpha=0.1, heuristic=zero
+Convergence achieved at episode 439090 with random seed 124 and heuristic zero
+
+Run 59/80: seed=124, epsilon=0.2, alpha=0.2, heuristic=zero
+Convergence achieved at episode 160858 with random seed 124 and heuristic zero
+
+Run 60/80: seed=124, epsilon=0.2, alpha=0.5, heuristic=zero
+Convergence achieved at episode 233151 with random seed 124 and heuristic zero
+
+Run 61/80: seed=124, epsilon=0.3, alpha=0.05, heuristic=zero
+Convergence achieved at episode 767505 with random seed 124 and heuristic zero
+
+Run 62/80: seed=124, epsilon=0.3, alpha=0.1, heuristic=zero
+Convergence achieved at episode 362175 with random seed 124 and heuristic zero
+
+Run 63/80: seed=124, epsilon=0.3, alpha=0.2, heuristic=zero
+Convergence achieved at episode 182962 with random seed 124 and heuristic zero
+
+Run 64/80: seed=124, epsilon=0.3, alpha=0.5, heuristic=zero
+Convergence achieved at episode 285348 with random seed 124 and heuristic zero
+
+Run 65/80: seed=125, epsilon=0.05, alpha=0.05, heuristic=zero
+Convergence achieved at episode 324347 with random seed 125 and heuristic zero
+
+Run 66/80: seed=125, epsilon=0.05, alpha=0.1, heuristic=zero
+Convergence achieved at episode 213967 with random seed 125 and heuristic zero
+
+Run 67/80: seed=125, epsilon=0.05, alpha=0.2, heuristic=zero
+Convergence achieved at episode 232569 with random seed 125 and heuristic zero
+
+Run 68/80: seed=125, epsilon=0.05, alpha=0.5, heuristic=zero
+Convergence achieved at episode 169192 with random seed 125 and heuristic zero
+
+Run 69/80: seed=125, epsilon=0.1, alpha=0.05, heuristic=zero
+Convergence achieved at episode 632958 with random seed 125 and heuristic zero
+
+Run 70/80: seed=125, epsilon=0.1, alpha=0.1, heuristic=zero
+Convergence achieved at episode 369202 with random seed 125 and heuristic zero
+
+Run 71/80: seed=125, epsilon=0.1, alpha=0.2, heuristic=zero
+Convergence achieved at episode 204613 with random seed 125 and heuristic zero
+
+Run 72/80: seed=125, epsilon=0.1, alpha=0.5, heuristic=zero
+Convergence achieved at episode 156525 with random seed 125 and heuristic zero
+
+Run 73/80: seed=125, epsilon=0.2, alpha=0.05, heuristic=zero
+Convergence achieved at episode 762779 with random seed 125 and heuristic zero
+
+Run 74/80: seed=125, epsilon=0.2, alpha=0.1, heuristic=zero
+Convergence achieved at episode 292565 with random seed 125 and heuristic zero
+
+Run 75/80: seed=125, epsilon=0.2, alpha=0.2, heuristic=zero
+Convergence achieved at episode 191421 with random seed 125 and heuristic zero
+
+Run 76/80: seed=125, epsilon=0.2, alpha=0.5, heuristic=zero
+Convergence achieved at episode 237589 with random seed 125 and heuristic zero
+
+Run 77/80: seed=125, epsilon=0.3, alpha=0.05, heuristic=zero
+Convergence achieved at episode 826691 with random seed 125 and heuristic zero
+
+Run 78/80: seed=125, epsilon=0.3, alpha=0.1, heuristic=zero
+Convergence achieved at episode 401717 with random seed 125 and heuristic zero
+
+Run 79/80: seed=125, epsilon=0.3, alpha=0.2, heuristic=zero
+Convergence achieved at episode 216065 with random seed 125 and heuristic zero
+
+Run 80/80: seed=125, epsilon=0.3, alpha=0.5, heuristic=zero
+Convergence achieved at episode 275726 with random seed 125 and heuristic zero
+
+Grid search completed. Results saved to hyper_grid_results.csv and hyper_grid_results.json
+
+Table 3 (Mean ± SD, rounded)
+epsilon=0.05: 259,093 ($\pm$ 70,243)  &  244,966 ($\pm$ 98,232)  &  194,820 ($\pm$ 39,686)  &  177,848 ($\pm$ 19,414)
+epsilon=0.1: 349,362 ($\pm$ 171,793)  &  337,401 ($\pm$ 112,093)  &  219,956 ($\pm$ 36,977)  &  188,379 ($\pm$ 21,125)
+epsilon=0.2: 637,247 ($\pm$ 131,163)  &  359,004 ($\pm$ 54,332)  &  188,616 ($\pm$ 18,676)  &  205,076 ($\pm$ 32,437)
+epsilon=0.3: 719,999 ($\pm$ 98,152)  &  343,408 ($\pm$ 40,623)  &  202,829 ($\pm$ 23,446)  &  250,091 ($\pm$ 34,223)
+
+Starting heuristic comparison: 10 runs (episodes per run = 1000000)
+
+Run 1/10: seed=126, epsilon=0.05, alpha=0.5, heuristic=random
+Convergence achieved at episode 224547 with random seed 126 and heuristic random
+
+Run 2/10: seed=126, epsilon=0.05, alpha=0.5, heuristic=tcd
+Convergence achieved at episode 195185 with random seed 126 and heuristic tcd
+
+Run 3/10: seed=127, epsilon=0.05, alpha=0.5, heuristic=random
+Convergence achieved at episode 200676 with random seed 127 and heuristic random
+
+Run 4/10: seed=127, epsilon=0.05, alpha=0.5, heuristic=tcd
+Convergence achieved at episode 149118 with random seed 127 and heuristic tcd
+
+Run 5/10: seed=128, epsilon=0.05, alpha=0.5, heuristic=random
+Convergence achieved at episode 162123 with random seed 128 and heuristic random
+
+Run 6/10: seed=128, epsilon=0.05, alpha=0.5, heuristic=tcd
+Convergence achieved at episode 112231 with random seed 128 and heuristic tcd
+
+Run 7/10: seed=129, epsilon=0.05, alpha=0.5, heuristic=random
+Convergence achieved at episode 189229 with random seed 129 and heuristic random
+
+Run 8/10: seed=129, epsilon=0.05, alpha=0.5, heuristic=tcd
+Convergence achieved at episode 123535 with random seed 129 and heuristic tcd
+
+Run 9/10: seed=130, epsilon=0.05, alpha=0.5, heuristic=random
+Convergence achieved at episode 173859 with random seed 130 and heuristic random
+
+Run 10/10: seed=130, epsilon=0.05, alpha=0.5, heuristic=tcd
+Convergence achieved at episode 151241 with random seed 130 and heuristic tcd
+
+Heuristic comparison search completed. Results saved to heuristic_compare_results.csv and heuristic_compare_results.json
+
+Statistical tests on episodes_to_converge:
+Samples for random: [224547, 200676, 162123, 189229, 173859]
+Samples for tcd: [195185, 149118, 112231, 123535, 151241]
+Shapiro p-value for random: 0.9382, for tcd: 0.6096
+Levene p-value (equal variance): 0.7088
+One-sided t-test (random > tcd) p-value: 0.0203
+
+Table 4 (Heuristic comparison)
+Random init (baseline): mean=190,087, sd=24,216
+TCD heuristic: mean=146,262, sd=32,020, reduction=-23.1%
