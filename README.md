@@ -28,7 +28,7 @@ Recommended Python: **3.8+**
   Use for **systematic experiments and reproducibility**:
   - Grid-search over seeds, `epsilon`, and `step_size`.
   - Record `episodes_to_converge`, elapsed time, and per-run metadata.
-  - Perform the two-heuristic comparison and (optionally) run statistical tests (Shapiro, Levene, $t$-test).
+  - Perform the two-heuristic comparison and (optionally) run statistical tests (Shapiro, Levene, $t$ test).
   - Saves aggregate results to `hyper_grid_results.csv` and `hyper_grid_results.json` by default.
 
   Intended to reproduce the data reported in the manuscript.
@@ -45,7 +45,7 @@ Run the hyperparameter driver with default constants:
 python cumulative_tictactoe_hyper_run.py
 ```
 
-For quick local tests, edit the top-of-file constants in `cumulative_tictactoe_hyper_run.py`:
+For quick local tests, edit the top-level constants in `cumulative_tictactoe_hyper_run.py`:
 
 - `EPISODES_GRID` — episodes per grid configuration (set to `1e3` or `1e4` for quick runs)
 - `SEEDS`, `EPSILONS`, `STEP_SIZES` — grid values
@@ -54,8 +54,9 @@ For quick local tests, edit the top-of-file constants in `cumulative_tictactoe_h
 ## Outputs produced
 
 - Default policy files: `policy_first.bin`, `policy_second.bin` (overwritten by subsequent runs unless renamed).
-- Hyper-run manifests: `hyper_grid_results.csv`, `hyper_grid_results.json`.
-- Heuristic-comparison: `heuristic_compare_results.json`.
+- Hyper-run manifests: `zero_summary.csv`, `hyper_grid_results.csv`, `hyper_grid_results.json` (overwritten by subsequent runs unless renamed).
+- Heuristic-comparison: `heuristic_compare_results.csv`, `heuristic_compare_results.json` (overwritten by subsequent runs unless renamed).
+- Terminal output: `terminal.txt`.
 
 ## License & citation
 
